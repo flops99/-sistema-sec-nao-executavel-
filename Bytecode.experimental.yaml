@@ -1,0 +1,36 @@
+data:
+  Name: Ax_XQ8J-UKPjfjjuDN9QJg
+  version: ehfHdZj6NQSdlWfgtt8tiQ
+config:
+ general: 4wOygWdQFQje7VWG66ML61MqNzqPfJWR5rufw1BPHqihj6c354OTPfI-_pR4SzOjp8qKN4NMjcnSAoDYJZPKWchGU82eimSBjDLWvOjAoQCPGRL-zDlOd0xqSUU21Vd6PAAyw441nSjbXJ0ociZ6mw
+ var1: &C0zyX5anYAU_-2tF6nhHe918qhTs3n92s5xPFOyGy3I
+ import: CF.functions 
+ use: *C0zyX5anYAU_-2tF6nhHe918qhTs3n92s5xPFOyGy3I > import.funct
+ identification.CF: 
+    id: all
+    name: all
+    command: all
+    new: all
+    numbers.int: all
+    numbers.float: all
+    string: all
+    characters: all
+    special.characters: all, no=�
+    others: all
+ converter:
+  https: https://www.invertexto.com/texto-criptografado
+  type: AES-128-ECB
+  data.type: text; all
+ PROTOCOL: 20
+ convert.important.data: 
+  base: https://www.prepostseo.com/tool/br/binary-translator
+  activation: use prefix:"!"
+  data.use: current
+  data.new: yes
+  mode: A3lkRAjUVxMSCaxWox8W_A
+  mode2: database foxtrot; to= J_EHW0jNn1BKSprXyyggZZBj33b3QVg4J8GRAGS39ZQ
+ date.use: update
+ 
+core: fterm2.json
+
+  
