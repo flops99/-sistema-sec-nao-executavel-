@@ -1,5 +1,9 @@
 U9v27vzjCqgtDG/Y1fZriXMy4hnBkJYQzdfUoCB9N7w=: CqdCV5ox75wFGFofPHe0qCudN8XQ68atO7dEituPjxY=
 base: https://magictool.ai/tool/encrypt-text/pt/
 version: 1.1
-a: &1
-b: *1
+function: alterar a função core do sistema sec pra core2
+testar.se: 
+- type text
+- number.float
+
+
